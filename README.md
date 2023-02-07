@@ -11,4 +11,4 @@
 
 ### [Статья об Объектно-Ориентированном подходе к программированию и его базовых принципах (OOP)](https://github.com/yafimchik/mentor-docs/blob/master/oop.md)
 
-### [Статья о цикле событий (Event Loop), лежащего в основе работы JavaScript](https://github.com/yafimchik/mentor-docs/blob/master/oop.md)
+### [Статья о цикле событий (Event Loop), лежащего в основе работы JavaScript](https://github.com/yafimchik/mentor-docs/blob/master/js/event-loop.md)
