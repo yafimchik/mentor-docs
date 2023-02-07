@@ -9,6 +9,6 @@
 Не обижайтесь на аллегории в статьях, это не более чем шутки, которые помогают отвлечься от сложности материала и разрядить атмосферу. 
 Я не пытался никого обидеть, а если и обидел, то не со зла.
 
-### [Статья об Объектно-Ориентированном подходе к программированию и его базовых принципах (OOP)](https://github.com/yafimchik/mentor-docs/blob/master/oop.md)
+### [Статья об объектно-ориентированном подходе к программированию и его базовых принципах (OOP)](https://github.com/yafimchik/mentor-docs/blob/master/oop.md)
 
-### [Статья о цикле событий (Event Loop), лежащего в основе работы JavaScript](https://github.com/yafimchik/mentor-docs/blob/master/js/event-loop.md)
+### [Статья о цикле событий (Event Loop), лежащем в основе работы JavaScript](https://github.com/yafimchik/mentor-docs/blob/master/js/event-loop.md)
